@@ -13,7 +13,7 @@
 | **Location** | Gurgaon, Haryana |
 | **Education** | B.Tech CSE (AI & ML) |
 | **Internship** | Software Development @ Prodigy InfoTech (Feb 2026) |
-| **Current Focus** | Mastering DSA with C++ |
+| **Current Focus** | Mastering DSA |
 
 ---
 
@@ -31,7 +31,7 @@ I am a passionate Computer Science student dedicated to building intelligent sys
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> </p>
 
 #### ⚙️ Tools & DevOps
-<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </p>
 
 ---
 
