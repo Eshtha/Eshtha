@@ -1,4 +1,4 @@
-# 👾Hii, I'm EshthaBanga👾
+# 👾Hii, I'm Eshtha!👾
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=System+Initialized...;B.Tech+CS+Student;AI+%2F+ML+Enthusiast;Software+Dev+Intern+%40+Prodigy" alt="Typing SVG" />
