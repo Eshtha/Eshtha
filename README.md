@@ -37,8 +37,8 @@ I am a passionate Computer Science student dedicated to building intelligent sys
 
 ### 📊 Performance Analytics
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eshtha&show_icons=true&theme=cyanical&hide_border=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshtha&layout=compact&theme=cyanical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EshthaBanga&show_icons=true&theme=cyanical&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshthaBanga&layout=compact&theme=cyanical&hide_border=true" />
 </p>
 
 ### 🐍 Contribution Activity
