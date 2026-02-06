@@ -12,8 +12,6 @@
 | **User** | Eshtha Banga |
 | **Location** | Gurgaon, Haryana |
 | **Education** | B.Tech CSE (AI & ML) |
-| **Internship** | Software Development @ Prodigy InfoTech (Feb 2026) |
-| **Current Focus** | Mastering DSA |
 
 ---
 
