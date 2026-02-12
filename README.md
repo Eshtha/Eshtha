@@ -33,11 +33,11 @@ I am a passionate Computer Science student dedicated to building intelligent sys
 
 ---
 
-### 📊 Performance Analytics
+<!--### 📊 Performance Analytics
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eshtha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eshtha&layout=compact&theme=radical&hide_border=true" />
-</p>
+</p>-->
 
 ### 🐍 Contribution Activity
 <p align="center">
