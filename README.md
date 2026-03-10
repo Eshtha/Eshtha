@@ -10,7 +10,7 @@
 | Feature | Status |
 | :--- | :--- |
 | **User** | Eshtha Banga |
-| **Location** | Gurgaon, Haryana |
+
 | **Education** | B.Tech CSE (AI & ML) |
 
 ---
