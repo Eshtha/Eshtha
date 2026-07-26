@@ -185,7 +185,7 @@ const eshtha = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Eshtha&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img src="https://streak-stats.demolab.com?user=Eshtha&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&cache_seconds=1800" />
 
 </div>
 
