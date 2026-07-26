@@ -51,33 +51,51 @@ Interests:
 ```javascript
 const eshtha = {
     pronouns: "She/Her",
-    code: ["JavaScript", "Python", "React"],
+
+    code: [
+        "JavaScript",
+        "Python",
+        "React",
+        "Node.js"
+    ],
+
     askMeAbout: [
         "AI/ML",
         "Frontend Development",
-        "Web Apps",
+        "Backend Development",
         "Automation",
         "Tech Projects"
     ],
-    
+
     technologies: {
+
         frontend: [
             "React",
+            "Next.js",
             "Tailwind CSS",
             "HTML5",
             "CSS3"
         ],
 
         backend: [
+            "Node.js",
+            "Express.js",
+            "MongoDB",
             "Supabase",
             "Firebase"
         ],
 
+        design: [
+            "Figma",
+            "Canva",
+            "Framer"
+        ],
+
         tools: [
             "GitHub",
-            "Vercel",
-            "Figma",
-            "Google Stitch"
+            "VS Code",
+            "Antigravity",
+            "Vercel"
         ]
     },
 
@@ -96,11 +114,11 @@ const eshtha = {
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
 <p>
-  HTML5 • CSS3 • JavaScript • React • Tailwind CSS
+  HTML5 • CSS3 • JavaScript • React • Next.js • Tailwind CSS
 </p>
 
 ---
@@ -108,11 +126,11 @@ const eshtha = {
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,supabase,firebase" />
 </p>
 
 <p>
-  Python • Supabase • Firebase
+  Node.js • Express.js • MongoDB • Python • Supabase • Firebase
 </p>
 
 ---
@@ -121,12 +139,16 @@ const eshtha = {
 
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" height="48" />
-  
-  <img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" />
 </p>
 
 <p>
-  Figma • Google Stitch
+  Figma • Canva • Framer • Adobe XD
 </p>
 
 ---
@@ -135,10 +157,12 @@ const eshtha = {
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
+  <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 <p>
-  Git • GitHub • VS Code • Vercel
+  Git • GitHub • VS Code • Vercel • Antigravity
 </p>
 
 </div>
@@ -183,6 +207,7 @@ const eshtha = {
 class Eshtha():
 
     def __init__(self):
+
         self.learning = [
             "Advanced AI",
             "System Design",
@@ -239,13 +264,11 @@ class Eshtha():
 
 ---
 
-#  DEV QUOTE
+#  DEV PHILOSOPHY
 
 <div align="center">
 
-```txt
-"Building intelligent systems for real-world impact."
-```
+> “I build technology that blends intelligence, creativity, and real-world impact — turning ideas into experiences people actually remember.”
 
 </div>
 
