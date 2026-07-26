@@ -2,12 +2,15 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Eshtha Banga
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+%26+ML+Engineer+in+Progress;Full+Stack+Developer;Building+Real+World+Tech+Solutions;Open+Source+%7C+Blockchain+%7C+Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=AI+%26+ML+Engineer+in+Progress;Full+Stack+Developer;Building+Real+World+Tech+Solutions;Open+Source+%7C+Blockchain+%7C+Automation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
 
 <p align="center">
   <a href="https://github.com/Eshtha">
     <img src="https://img.shields.io/github/followers/Eshtha?label=Followers&style=for-the-badge&color=00f7ff&labelColor=1a1b27" />
   </a>
+
   <a href="https://github.com/Eshtha">
     <img src="https://komarev.com/ghpvc/?username=Eshtha&style=for-the-badge&color=blueviolet" />
   </a>
@@ -23,17 +26,65 @@
 Name: Eshtha Banga
 Location: Gurgaon, Haryana
 Education: B.Tech CSE (AI & ML)
-Focus: AI Systems + Full Stack Development
-Currently Working On:
-  - Intelligent Web Apps
-  - Blockchain Integrations
-  - AI-Powered Platforms
+
+Focus:
+  - AI Systems
+  - Full Stack Development
+  - Intelligent Web Platforms
+
+Currently Building:
+  - AI-powered applications
+  - Blockchain integrations
+  - Automation tools
 
 Interests:
   - Machine Learning
-  - Web Engineering
+  - UI/UX
   - Open Source
-  - Automation
+  - Scalable Systems
+```
+
+---
+
+#  ABOUT_ME.exe
+
+```javascript
+const eshtha = {
+    pronouns: "She/Her",
+    code: ["JavaScript", "Python", "React"],
+    askMeAbout: [
+        "AI/ML",
+        "Frontend Development",
+        "Web Apps",
+        "Automation",
+        "Tech Projects"
+    ],
+    
+    technologies: {
+        frontend: [
+            "React",
+            "Tailwind CSS",
+            "HTML5",
+            "CSS3"
+        ],
+
+        backend: [
+            "Supabase",
+            "Firebase"
+        ],
+
+        tools: [
+            "GitHub",
+            "Vercel",
+            "Figma",
+            "Google Stitch"
+        ]
+    },
+
+    currentFocus: "Building impactful AI-powered products",
+
+    funFact: "I turn caffeine into code ☕"
+};
 ```
 
 ---
@@ -42,20 +93,53 @@ Interests:
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,c" />
+### Frontend Development
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+<p>
+  HTML5 • CSS3 • JavaScript • React • Tailwind CSS
+</p>
+
+---
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 
-### AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,supabase,firebase" />
+</p>
 
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
+<p>
+  Python • Supabase • Firebase
+</p>
+
+---
+
+### Design & Creative Tools
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" height="48" />
+  
+  <img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+<p>
+  Figma • Google Stitch
+</p>
+
+---
+
+### Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+<p>
+  Git • GitHub • VS Code • Vercel
+</p>
 
 </div>
 
@@ -65,7 +149,7 @@ Interests:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eshtha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eshtha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&rank_icon=github" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshtha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
 
@@ -77,7 +161,7 @@ Interests:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshtha&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img src="https://streak-stats.demolab.com?user=Eshtha&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 
 </div>
 
@@ -87,7 +171,7 @@ Interests:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshtha&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshtha&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -95,13 +179,26 @@ Interests:
 
 #  CURRENT MISSION
 
-```javascript
-const eshtha = {
-    learning: ["Advanced AI", "System Design", "Cloud"],
-    exploring: ["Blockchain", "LLMs", "Automation"],
-    goal_2026: "Build impactful AI-powered products",
-    funFact: "I turn caffeine into code ☕"
-};
+```python
+class Eshtha():
+
+    def __init__(self):
+        self.learning = [
+            "Advanced AI",
+            "System Design",
+            "Cloud Computing"
+        ]
+
+        self.exploring = [
+            "LLMs",
+            "Blockchain",
+            "Automation"
+        ]
+
+        self.goal = "Build scalable AI-driven products"
+
+    def life(self):
+        return "Eat • Sleep • Code • Repeat"
 ```
 
 ---
@@ -110,12 +207,12 @@ const eshtha = {
 
 <div align="center">
 
-<a href="YOUR_PROJECT_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=YOUR_REPO&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Eshtha/YOUR_REPO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="YOUR_PROJECT_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=YOUR_REPO2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Eshtha/YOUR_REPO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -127,16 +224,38 @@ const eshtha = {
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://YOUR_PORTFOLIO_LINK.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+#  DEV QUOTE
+
+<div align="center">
+
+```txt
+"Building intelligent systems for real-world impact."
+```
+
+</div>
+
+---
+
+#  CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -144,8 +263,6 @@ const eshtha = {
 
 <div align="center">
 
-###  "Building intelligent systems for real-world impact."
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
 
 </div>
