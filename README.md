@@ -232,12 +232,12 @@ class Eshtha():
 
 <div align="center">
 
-<a href="https://github.com/Eshtha/YOUR_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Eshtha/https://github.com/Eshtha/Async-Weather-Tracker.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=https://github.com/Eshtha/Async-Weather-Tracker.git&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Eshtha/YOUR_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Eshtha/https://github.com/Eshtha/Dream-Meaning-Decoder.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=https://github.com/Eshtha/Dream-Meaning-Decoder.git&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -248,15 +248,15 @@ class Eshtha():
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/eshtha-banga-4aa9b3381/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:eshthabanga@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO_LINK.vercel.app">
+<a href="https://myportfolio-six-vert-67.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
