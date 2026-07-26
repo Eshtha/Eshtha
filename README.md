@@ -233,15 +233,16 @@ class Eshtha():
 
 <div align="center">
 
-<a href="https://github.com/Eshtha/https://github.com/Eshtha/Async-Weather-Tracker.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=https://github.com/Eshtha/Async-Weather-Tracker.git&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Eshtha/Async-Weather-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=Async-Weather-Tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
 </a>
 
-<a href="https://github.com/Eshtha/https://github.com/Eshtha/Dream-Meaning-Decoder.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=https://github.com/Eshtha/Dream-Meaning-Decoder.git&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Eshtha/Dream-Meaning-Decoder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=Dream-Meaning-Decoder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
 </a>
 
 </div>
+
 
 ---
 
