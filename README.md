@@ -192,16 +192,6 @@ const eshtha = {
 
 ---
 
-#  GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Eshtha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
-
-</div>
-
----
-
 #  CURRENT MISSION
 
 ```python
@@ -233,12 +223,12 @@ class Eshtha():
 
 <div align="center">
 
-<a href="https://github.com/Eshtha/Async-Weather-Tracker">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=Async-Weather-Tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+<a href="https://github.com/Eshtha/EndSemSlayer">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Eshtha&repo=EndSemSlayer&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Eshtha/Dream-Meaning-Decoder">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=Dream-Meaning-Decoder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Eshtha&repo=Dream-Meaning-Decoder&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
