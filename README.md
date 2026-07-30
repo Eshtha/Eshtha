@@ -6,6 +6,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
 
+<p align="center">
+  <a href="https://github.com/Eshtha">
+    <img src="https://img.shields.io/github/followers/Eshtha?label=Followers&style=for-the-badge&color=00f7ff&labelColor=1a1b27" />
+  </a>
+
+  <a href="https://github.com/Eshtha">
+    <img src="https://komarev.com/ghpvc/?username=Eshtha&style=for-the-badge&color=blueviolet" />
+  </a>
+</p>
 
 </div>
 
