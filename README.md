@@ -153,6 +153,19 @@ const eshtha = {
 
 ---
 
+### Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
+  <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+<p>
+  Git • GitHub • VS Code • Vercel • Antigravity
+</p>
+
+</div>
 
 ---
 
