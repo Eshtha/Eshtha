@@ -169,16 +169,6 @@ const eshtha = {
 
 ---
 
-#  GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eshtha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eshtha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&langs_count=8" />
-
-</div>
-
 
 ---
 
