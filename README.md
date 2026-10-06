@@ -1,14 +1,13 @@
 <div align="center">
 
-<a href="https://github.com/Eshtha"><img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:07111F,45:101A3A,100:00F7FF&text=ESHTHA%20BANGA&fontColor=EAFBFF&fontSize=52&fontAlignY=42&desc=AI%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20PRODUCT%20ENGINEERING&descSize=15&descAlignY=64&animation=fadeIn" width="100%" alt="Eshtha Banga — AI, full-stack, and product engineering" /></a>
+<a href="https://github.com/Eshtha"><img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:07111F,45:101A3A,100:00F7FF&text=ESHTHA%20BANGA&fontColor=EAFBFF&fontSize=52&fontAlignY=42&desc=AI%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20PRODUCT%20ENGINEERING&descSize=15&descAlignY=64&animation=fadeIn" width="100%" alt="Eshtha Banga — AI/ML, Full-stack" /></a>
 
 ### `BUILDING INTELLIGENT PRODUCTS FROM IDEA TO INTERFACE`
 
-**AI & ML · Full-Stack Development · Blockchain · Automation**
+**AI & ML · Full-Stack Development**
 
 <a href="https://eshtha.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-eshtha.vercel.app-07111F?style=for-the-badge&logo=vercel&logoColor=00F7FF" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/eshtha-banga-4aa9b3381/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-07111F?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn" /></a>
-<a href="mailto:eshthabanga@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-07111F?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Turning+ideas+into+intelligent+experiences;Designing+across+the+full+stack;Exploring+AI%2C+LLMs%2C+blockchain+%26+automation" alt="Rotating focus: intelligent experiences, full-stack development, and emerging technologies" />
 
