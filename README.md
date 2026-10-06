@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/Eshtha"><img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:07111F,45:101A3A,100:00F7FF&text=ESHTHA%20BANGA&fontColor=EAFBFF&fontSize=52&fontAlignY=42&desc=AI%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20PRODUCT%20ENGINEERING&descSize=15&descAlignY=64&animation=fadeIn" width="100%" alt="Eshtha Banga — AI/ML, Full-stack" /></a>
-
-### `BUILDING INTELLIGENT PRODUCTS FROM IDEA TO INTERFACE`
+<a href="https://github.com/Eshtha"><img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:07111F,45:101A3A,100:00F7FF&text=ESHTHA%20BANGA&fontColor=EAFBFF&fontSize=52&fontAlignY=42&animation=fadeIn" width="100%" alt="Eshtha Banga — AI/ML, Full-Stack Development" /></a>
 
 **AI & ML · Full-Stack Development**
 
@@ -24,9 +22,7 @@
 |:--|:--|
 | `base.location` | Gurgaon, Haryana |
 | `pronouns` | She / Her |
-| `primary.focus` | AI systems · full-stack development · intelligent web platforms |
-| `build.mode` | AI-powered applications · blockchain integrations · automation tools |
-| `north.star` | Build scalable, useful AI-driven products |
+| `primary.focus` | AI-powered applications · full-stack development · intelligent web platforms |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
