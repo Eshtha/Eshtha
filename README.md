@@ -1,111 +1,36 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Eshtha Banga
+<a href="https://github.com/Eshtha"><img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:07111F,45:101A3A,100:00F7FF&text=ESHTHA%20BANGA&fontColor=EAFBFF&fontSize=52&fontAlignY=42&desc=AI%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20PRODUCT%20ENGINEERING&descSize=15&descAlignY=64&animation=fadeIn" width="100%" alt="Eshtha Banga — AI, full-stack, and product engineering" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=AI+%26+ML+Engineer+in+Progress;Full+Stack+Developer;Building+Real+World+Tech+Solutions;Open+Source+%7C+Blockchain+%7C+Automation" />
+### `BUILDING INTELLIGENT PRODUCTS FROM IDEA TO INTERFACE`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
+**AI & ML · Full-Stack Development · Blockchain · Automation**
 
-<p align="center">
-  <a href="https://github.com/Eshtha">
-    <img src="https://img.shields.io/github/followers/Eshtha?label=Followers&style=for-the-badge&color=00f7ff&labelColor=1a1b27" />
-  </a>
+<a href="https://eshtha.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-eshtha.vercel.app-07111F?style=for-the-badge&logo=vercel&logoColor=00F7FF" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/eshtha-banga-4aa9b3381/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-07111F?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn" /></a>
+<a href="mailto:eshthabanga@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-07111F?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email" /></a>
 
-  <a href="https://github.com/Eshtha">
-    <img src="https://komarev.com/ghpvc/?username=Eshtha&style=for-the-badge&color=blueviolet" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Turning+ideas+into+intelligent+experiences;Designing+across+the+full+stack;Exploring+AI%2C+LLMs%2C+blockchain+%26+automation" alt="Rotating focus: intelligent experiences, full-stack development, and emerging technologies" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-#  SYSTEM.LOG
 
-```yaml
-Name: Eshtha Banga
-Location: Gurgaon, Haryana
-Education: B.Tech CSE (AI & ML)
+#  Who Am I?
 
-Focus:
-  - AI Systems
-  - Full Stack Development
-  - Intelligent Web Platforms
+> I’m **Eshtha Banga** — a B.Tech CSE student focused on AI & ML, building full-stack experiences where intelligent systems meet thoughtful interfaces.
 
-Currently Building:
-  - AI-powered applications
-  - Blockchain integrations
-  - Automation tools
+| **SYSTEM** | **CURRENT SIGNAL** |
+|:--|:--|
+| `base.location` | Gurgaon, Haryana |
+| `pronouns` | She / Her |
+| `primary.focus` | AI systems · full-stack development · intelligent web platforms |
+| `build.mode` | AI-powered applications · blockchain integrations · automation tools |
+| `north.star` | Build scalable, useful AI-driven products |
 
-Interests:
-  - Machine Learning
-  - UI/UX
-  - Open Source
-  - Scalable Systems
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
----
-
-#  ABOUT_ME.exe
-
-```javascript
-const eshtha = {
-    pronouns: "She/Her",
-
-    code: [
-        "JavaScript",
-        "Python",
-        "React",
-        "Node.js"
-    ],
-
-    askMeAbout: [
-        "AI/ML",
-        "Frontend Development",
-        "Backend Development",
-        "Automation",
-        "Tech Projects"
-    ],
-
-    technologies: {
-
-        frontend: [
-            "React",
-            "Next.js",
-            "Tailwind CSS",
-            "HTML5",
-            "CSS3"
-        ],
-
-        backend: [
-            "Node.js",
-            "Express.js",
-            "MongoDB",
-            "Supabase",
-            "Firebase"
-        ],
-
-        design: [
-            "Figma",
-            "Canva",
-            "Framer"
-        ],
-
-        tools: [
-            "GitHub",
-            "VS Code",
-            "Antigravity",
-            "Vercel"
-        ]
-    },
-
-    currentFocus: "Building impactful AI-powered products",
-
-    funFact: "I turn caffeine into code ☕"
-};
-```
-
----
 
 #  TECH STACK
 
@@ -166,11 +91,35 @@ const eshtha = {
 </p>
 
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
----
 
+#  Pipeline
 
----
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0d1117','primaryBorderColor':'#00f7ff','primaryTextColor':'#e6edf3','lineColor':'#8a2be2','secondaryColor':'#161b22','tertiaryColor':'#0d1117'}}}%%
+flowchart LR
+    A([💡 Idea]) --> B[🎨 Design<br/>Figma · Framer · Canva]
+    B --> C[⚛️ Frontend<br/>React · Next.js · Tailwind]
+    C --> D[🔧 Backend<br/>Node · Express · Python]
+    D --> E[(🗄️ Data<br/>MongoDB · Supabase · Firebase)]
+    D -.-> F{{🤖 AI / ML layer}}
+    E --> G([🚀 Ship on Vercel])
+    F --> G
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+# Github Stats
+
+<div align="center">
+
+<a href="https://github.com/Eshtha"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Eshtha&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=C9D1D9&ring_color=00F7FF" alt="GitHub activity overview for Eshtha" /></a>
+<a href="https://github.com/Eshtha"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshtha&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Most-used languages in Eshtha's public repositories" /></a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 #  STREAK STATS
 
@@ -180,93 +129,30 @@ const eshtha = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-#  CURRENT MISSION
-
-```python
-class Eshtha():
-
-    def __init__(self):
-
-        self.learning = [
-            "Advanced AI",
-            "System Design",
-            "Cloud Computing"
-        ]
-
-        self.exploring = [
-            "LLMs",
-            "Blockchain",
-            "Automation"
-        ]
-
-        self.goal = "Build scalable AI-driven products"
-
-    def life(self):
-        return "Eat • Sleep • Code • Repeat"
-```
-
----
-
-#  FEATURED PROJECTS
+#  Projects
 
 <div align="center">
 
-<a href="https://github.com/Eshtha/EndSemSlayer">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Eshtha&repo=EndSemSlayer&theme=tokyonight&hide_border=true" />
-</a>
+<a href="https://github.com/Eshtha/EndSemSlayer"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=EndSemSlayer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2" /></a>
+<a href="https://github.com/Eshtha/Dream-Meaning-Decoder"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=Dream-Meaning-Decoder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2" /></a>
+<a href="https://github.com/Eshtha/DreamSpace"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=DreamSpace&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2" /></a>
+<a href="https://github.com/Eshtha/MyPortfolio"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=MyPortfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2" /></a>
+<a href="https://github.com/Eshtha/Travel-Agency-Website"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=Travel-Agency-Website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2" /></a>
+<a href="https://github.com/Eshtha/VANGUARD"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=VANGUARD&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2" /></a>
 
-<a href="https://github.com/Eshtha/Dream-Meaning-Decoder">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Eshtha&repo=Dream-Meaning-Decoder&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-#  CONNECT.EXE
-
-<div align="center">
-
-<a href="https://linkedin.com/in/eshtha-banga-4aa9b3381/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:eshthabanga@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://eshtha.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
----
-
-#  DEV PHILOSOPHY
-
-<div align="center">
-
-> “I build technology that blends intelligence, creativity, and real-world impact — turning ideas into experiences people actually remember.”
-
-</div>
-
----
-
-#  CONTRIBUTION SNAKE
+#  Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-</div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=95&section=footer" width="100%" alt="Cyan-to-violet footer banner" />
 
 </div>
