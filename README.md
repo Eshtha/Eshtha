@@ -126,20 +126,6 @@ flowchart LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-#  Projects
-
-<div align="center">
-
-<a href="https://github.com/Eshtha/EndSemSlayer"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=EndSemSlayer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2" /></a>
-<a href="https://github.com/Eshtha/Dream-Meaning-Decoder"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=Dream-Meaning-Decoder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2" /></a>
-<a href="https://github.com/Eshtha/DreamSpace"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=DreamSpace&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2" /></a>
-<a href="https://github.com/Eshtha/MyPortfolio"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=MyPortfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2" /></a>
-<a href="https://github.com/Eshtha/Travel-Agency-Website"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=Travel-Agency-Website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2" /></a>
-<a href="https://github.com/Eshtha/VANGUARD"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eshtha&repo=VANGUARD&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2" /></a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-</div>
 
 #  Contribution Snake
 
